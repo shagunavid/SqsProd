@@ -23,6 +23,7 @@
                 }
             }
         }
+        
     }, 
     "locals": {
         "act_resource": "${local.pol_resource}/AWSLogs/${local.aws_account_id}/*",
